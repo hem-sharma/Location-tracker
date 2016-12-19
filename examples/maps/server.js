@@ -26,7 +26,6 @@ app.get('/', function(req, res) {
 });
 
 http.listen(3000, function() {
-
   console.log('listening on *:3000');
 });
 
